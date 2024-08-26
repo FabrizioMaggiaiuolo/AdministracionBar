@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\formsbar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|solutionrelative:formsbar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C964CFD-0F03-4FC7-B2A5-DC8642A27CF8}|Clases\\Clases.csproj|c:\\users\\fa_mg\\desktop\\p\\code\\c#\\bar administrator\\aplicacionbar\\clases\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C964CFD-0F03-4FC7-B2A5-DC8642A27CF8}|Clases\\Clases.csproj|solutionrelative:clases\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|c:\\users\\fa_mg\\desktop\\p\\code\\c#\\bar administrator\\aplicacionbar\\formsbar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|solutionrelative:formsbar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C964CFD-0F03-4FC7-B2A5-DC8642A27CF8}|Clases\\Clases.csproj|C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\clases\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C964CFD-0F03-4FC7-B2A5-DC8642A27CF8}|Clases\\Clases.csproj|solutionrelative:clases\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\formsbar\\frmoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|solutionrelative:formsbar\\frmoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\formsbar\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|solutionrelative:formsbar\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\formsbar\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|solutionrelative:formsbar\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\formsbar\\frmoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D83B6E-41A9-4DA4-8334-A4484898C38F}|FormsBar\\FormsBar.csproj|solutionrelative:formsbar\\frmoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C964CFD-0F03-4FC7-B2A5-DC8642A27CF8}|Clases\\Clases.csproj|C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\clases\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C964CFD-0F03-4FC7-B2A5-DC8642A27CF8}|Clases\\Clases.csproj|solutionrelative:clases\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADO.cs",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\Clases\\ADO.cs",
+              "RelativeDocumentMoniker": "Clases\\ADO.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\Clases\\ADO.cs",
+              "RelativeToolTip": "Clases\\ADO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:50:29.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\Clases\\User.cs",
+              "RelativeDocumentMoniker": "Clases\\User.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\Clases\\User.cs",
+              "RelativeToolTip": "Clases\\User.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:45:55.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FormsBar\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmLogin.cs",
+              "RelativeToolTip": "FormsBar\\FrmLogin.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwCoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:19:21.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FormsBar\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormsBar\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:18:38.24Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmOperaciones.cs",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmOperaciones.cs",
+              "RelativeDocumentMoniker": "FormsBar\\FrmOperaciones.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmOperaciones.cs",
+              "RelativeToolTip": "FormsBar\\FrmOperaciones.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwCIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:50:39.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmOperaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmOperaciones.cs",
+              "RelativeDocumentMoniker": "FormsBar\\FrmOperaciones.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\Proyectos\\Bar\\AplicacionBar\\FormsBar\\FrmOperaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Proyectos\\Bar\\AplicacionBar\\FormsBar\\FrmOperaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:08:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMesas.cs",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmMesas.cs",
+              "RelativeDocumentMoniker": "FormsBar\\FrmMesas.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmMesas.cs",
+              "RelativeToolTip": "FormsBar\\FrmMesas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:42:21.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMesas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\FormsBar\\FrmMesas.cs",
+              "RelativeDocumentMoniker": "FormsBar\\FrmMesas.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\Proyectos\\Bar\\AplicacionBar\\FormsBar\\FrmMesas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Proyectos\\Bar\\AplicacionBar\\FormsBar\\FrmMesas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:44:58.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\Clases\\Bar.cs",
+              "RelativeDocumentMoniker": "Clases\\Bar.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\P\\code\\C#\\Bar Administrator\\AplicacionBar\\Clases\\Bar.cs",
+              "RelativeToolTip": "Clases\\Bar.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:45:40.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

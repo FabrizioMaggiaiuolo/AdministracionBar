@@ -1,0 +1,91 @@
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.exe
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.deps.json
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.runtimeconfig.json
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.pdb
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmLogin.resources
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.GenerateResource.cache
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.AssemblyInfoInputs.cache
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.AssemblyInfo.cs
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.CoreCompileInputs.cache
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\refint\FormsBar.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.pdb
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.genruntimeconfig.cache
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\ref\FormsBar.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmMesas.resources
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmOperaciones.resources
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\Clases.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\Clases.pdb
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.AssemblyReference.cache
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.Up2Date
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmAddDrink.resources
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmData.resources
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.exe
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.deps.json
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.runtimeconfig.json
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.pdb
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\Clases.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\Clases.pdb
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.AssemblyReference.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmAddDrink.resources
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmData.resources
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmLogin.resources
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmMesas.resources
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmOperaciones.resources
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.GenerateResource.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.AssemblyInfoInputs.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.AssemblyInfo.cs
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.CoreCompileInputs.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.Up2Date
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\refint\FormsBar.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.pdb
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.genruntimeconfig.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\ref\FormsBar.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.exe
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.deps.json
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.runtimeconfig.json
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\FormsBar.pdb
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\Clases.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\bin\Debug\net6.0-windows\Clases.pdb
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.AssemblyReference.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmAddDrink.resources
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmData.resources
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmLogin.resources
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmMesas.resources
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.FrmOperaciones.resources
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.GenerateResource.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.AssemblyInfoInputs.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.AssemblyInfo.cs
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.CoreCompileInputs.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.sourcelink.json
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.csproj.CopyComplete
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\refint\FormsBar.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.pdb
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\FormsBar.genruntimeconfig.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\FormsBar\obj\Debug\net6.0-windows\ref\FormsBar.dll

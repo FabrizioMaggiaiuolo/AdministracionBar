@@ -1,0 +1,37 @@
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\bin\Debug\net6.0\Clases.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\Clases.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\ref\Clases.dll
+C:\Users\fa_mg\Desktop\utn\0-archivado\2° Cuatrimestre\practicando\AplicacionBar\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\bin\Debug\net6.0\Clases.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\Clases.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Users\fa_mg\Desktop\P\Proyectos\Bar\AplicacionBar\Clases\obj\Debug\net6.0\ref\Clases.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\bin\Debug\net6.0\Clases.deps.json
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\bin\Debug\net6.0\Clases.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\bin\Debug\net6.0\Clases.pdb
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.sourcelink.json
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\refint\Clases.dll
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\Clases.pdb
+F:\Files\Code\C#\BarAdministrator\AplicacionBar\Clases\obj\Debug\net6.0\ref\Clases.dll
